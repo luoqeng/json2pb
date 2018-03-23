@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2015 luoqeng <luoqeng@gmail.net>
+ * Copyright (c) 2015 luoqeng <luoqeng@gmail.com>
  *
  * json2pb is free software; you can redistribute it and/or modify
  * it under the terms of the MIT license. See LICENSE for details.
